@@ -47,11 +47,11 @@ Every visual responds to the slicers. Here is the same dashboard filtered to the
 
 ## Tools used
 
-Power BI Desktop and DAX measures. The source data came as a CSV/Excel file.
+Power BI Desktop and DAX measures for the dashboard, and Excel to check and clean the data before loading it into Power BI.
 
 ## Dataset
 
-The Sample Superstore dataset: 9,994 order lines covering orders, customers, products, discounts, sales and profit.
+The Sample Superstore dataset: 9,994 order lines covering orders, customers, products, discounts, sales and profit. I started from the CSV file, opened it in Excel to check the data and clean it, and then loaded it into Power BI.
 
 ## Files
 
