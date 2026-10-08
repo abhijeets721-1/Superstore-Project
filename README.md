@@ -2,11 +2,11 @@
 
 An interactive Power BI dashboard that I built to analyse sales performance for a retail superstore between 2014 and 2017. I wanted to go beyond just charting totals and find out where the business actually makes money and where it loses it.
 
-![Dashboard](dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 Every visual responds to the slicers. Here is the same dashboard filtered to the Central region and the Home Office segment:
 
-![Filtered dashboard](dashboard1.png)
+![Filtered dashboard](Images/dashboard1.png)
 
 ## What the dashboard shows
 
@@ -56,15 +56,15 @@ The Sample Superstore dataset: 9,994 order lines covering orders, customers, pro
 ## Files
 
 - `superstore.pbix`: the Power BI report (open it with Power BI Desktop)
-- `Sample - Superstore.csv` / `.xlsx`: the source data
-- `dashboard.png`: screenshot of the dashboard
-- `png/`: icons used in the report
+- `Data/`: the source data (`Sample - Superstore.csv` and `.xlsx`)
+- `Images/`: dashboard screenshots, plus the icons used in the report (`Images/png`)
+- `README.md`: this file
 
 ## How to open the project
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (it is free, Windows only).
 2. Download or clone this repository.
-3. Open `superstore.pbix`. If Power BI asks for the data source, point it to `Sample - Superstore.csv` in this folder.
+3. Open `superstore.pbix`. If Power BI asks for the data source, point it to `Sample - Superstore.csv` in the `Data` folder.
 
 ## Ideas for the next version
 
